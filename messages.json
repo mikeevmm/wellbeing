@@ -1,0 +1,17 @@
+{
+    "messages": {
+        "water": {
+            "title": "Water",
+            "description": "Remember to drink some water!"
+        },
+        "stretch": {
+            "title": "Stretch Break",
+            "description": "Stretch for 10 seconds."
+        },
+        "posture": {
+            "title": "Posture Check"
+        },
+        "custom": {}
+    },
+    "version": 1.0
+}

@@ -1,0 +1,3 @@
+.*
+!.gitignore
+internals/__pycache__/
