@@ -7,7 +7,7 @@ you to drink water, stretch, check your posture, or of a custom
 reminder.
 
 ```bash
-wellbeing [--water=<every> --stretch=<every> --posture=<every>] [(--custom=<every> [--message=<msg>])]
+wellbeing --water="1 hour" --posture=5m --stretch=30m
 ```
 
 ## Quick Start
