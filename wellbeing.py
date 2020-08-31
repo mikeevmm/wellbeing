@@ -36,7 +36,7 @@ def notify_with_title(title: str, message: str):
 
 
 TIME_INTERVAL_RE = re.compile(
-    '^\s*(\d+(?:\.\d+)?)\s?(h(?:ours)?|m(?:inutes)?|s(?:econds)?)?\s*$', re.IGNORECASE)
+    r'^\s*(\d+(?:\.\d+)?)\s?(h(?:ours)?|m(?:inutes)?|s(?:econds)?)?\s*$', re.IGNORECASE)
 
 
 def parse_time_interval(raw: str) -> (float, str):
