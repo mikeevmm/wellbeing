@@ -18,3 +18,7 @@ cd wellbeing
 bash install.sh
 wellbeing --help
 ```
+
+---
+
+Made with ❤️  by Miguel Murça
