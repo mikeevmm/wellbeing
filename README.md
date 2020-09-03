@@ -22,7 +22,7 @@ bash install.sh
 wellbeing --help
 ```
 
-(if `wellbeing` was already installed, see [upgrading](#upgrading-from-1.0).)
+(if `wellbeing` was already installed, see [upgrading](#upgrading-from-10).)
 
 ## Adding New Commands
 
