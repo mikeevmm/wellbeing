@@ -1,0 +1,13 @@
+Stretch and have some water.
+
+Usage:
+    wellbeing [--water=<every>] [--stretch=<every>] [--posture=<every>] [--eyes=<every>] [--eat=<at>]
+    wellbeing --help | -h
+
+Options:
+    --water=<every>    Reminder to drink water at given interval.
+    --stretch=<every>  Reminder to stretch at given interval.
+    --posture=<every>  Reminder to stretch at given interval.
+    --eyes=<every>     Reminder to relax your eyes at given interval.
+    --eat=<at>         Reminder to have some food at the given clock time.
+    --help -h          Show this screen.

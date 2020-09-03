@@ -40,7 +40,7 @@ fi
 echo ""
 
 echo -e "\e[33mPlease add the following line to your ~/.bashrc or equivalent:\e[0m"
-echo "export WELLBEING_MSGS=$DIR/messages.json"
+echo "source $DIR/internals/wellbeing_setup.sh"
 
 echo ""
 

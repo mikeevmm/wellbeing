@@ -1,17 +1,41 @@
 {
-    "messages": {
-        "water": {
-            "title": "Water",
-            "description": "Remember to drink some water!"
-        },
-        "stretch": {
-            "title": "Stretch Break",
-            "description": "Stretch for 10 seconds."
-        },
-        "posture": {
-            "title": "Posture Check"
-        },
-        "custom": {}
+    "commands": {
+		"every": {
+			"water": {
+				"notification": {
+					"title": "Water",
+					"description": "Remember to drink some water!"
+				},
+				"description": "Reminder to drink water at given interval."
+			},
+			"stretch": {
+				"notification": {
+					"title": "Stretch Break",
+					"description": "Stretch for 10 seconds."
+				},
+				"description": "Reminder to stretch at given interval."
+			},
+			"posture": {
+				"notification": {
+					"title": "Posture Check"
+				},
+				"description": "Reminder to stretch at given interval."
+			},
+			"eyes": {
+				"notification": {
+					"title": "Look away for a few seconds."
+				},
+				"description": "Reminder to relax your eyes at given interval."
+			}
+		},
+		"at": {
+			"eat": {
+				"notification": {
+					"title": "Remember to eat some food!"
+				},
+				"description": "Reminder to have some food at the given clock time."
+			}
+		}
     },
-    "version": 1.0
+    "version": 2.0
 }
