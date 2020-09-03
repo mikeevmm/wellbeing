@@ -32,8 +32,7 @@ Usage:
     wellbeing --help | -h
 
 Options:
-{options}
-"""
+{options}"""
 
 NO_JSON = f"""Couldn't find a messages.json file.
 Please ensure an environment variable '{JSON_ENVAR}' exists, and points to a valid messages.json file, or that
