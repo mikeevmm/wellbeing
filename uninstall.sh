@@ -9,5 +9,5 @@ fi
 
 echo ""
 
-echo -e "\e[33mPlease remove the WELLBEING_MSGS environment"
-echo -e "variable from your ~/.bashrc or equivalent.\e[0m"
+echo -e "\e[33mPlease remove the source .../wellbeing_setup.sh"
+echo -e "line from your ~/.bashrc or equivalent.\e[0m"
