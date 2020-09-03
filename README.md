@@ -64,7 +64,7 @@ a title):
     "notification": {
         "title": "Posture Check"
     },
-    "description": "Reminder to stretch at given interval."
+    "description": "Reminder to check your posture."
 }
 ```
 
